@@ -1,0 +1,6 @@
+[
+  {"question":"What is the enterprise refund policy?", "expected_doc":"refund_policy"},
+  {"question":"What risks are mentioned in the annual report?", "expected_doc":"annual_report"},
+  {"question":"How much revenue did Atlas Analytics generate in Europe in Q3?", "expected_sql":"Europe"},
+  {"question":"What were the top products by revenue in Q3?", "expected_sql":"Q3"}
+]
